@@ -1,0 +1,32 @@
+[
+  {
+    "character": "Alya",
+    "voiceId": "female_soft",
+    "language": "id-ID",
+    "description": "Suara perempuan muda, lembut dan emosional"
+  },
+  {
+    "character": "Rafi",
+    "voiceId": "male_deep",
+    "language": "id-ID",
+    "description": "Suara laki-laki dewasa, tenang dan dalam"
+  },
+  {
+    "character": "Nina",
+    "voiceId": "female_bright",
+    "language": "id-ID",
+    "description": "Suara ceria dan cepat, cocok untuk karakter remaja"
+  },
+  {
+    "character": "Indra",
+    "voiceId": "male_calm",
+    "language": "id-ID",
+    "description": "Suara kalem, sedikit berat, cocok untuk narator"
+  },
+  {
+    "character": "Narator",
+    "voiceId": "narrator_neutral",
+    "language": "id-ID",
+    "description": "Suara narator netral dan jelas"
+  }
+]

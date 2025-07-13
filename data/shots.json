@@ -1,0 +1,92 @@
+[
+  {
+    "id": "aerial_topdown",
+    "label": "Aerial Top-Down",
+    "camera": "drone",
+    "angle": "top-down",
+    "description": "Drone menghadap lurus ke bawah, memperlihatkan lanskap dari atas.",
+    "category": "Drone",
+    "defaultDuration": 8
+  },
+  {
+    "id": "drone_orbit",
+    "label": "Drone Orbit Shot",
+    "camera": "drone",
+    "angle": "orbit",
+    "description": "Drone mengelilingi subjek dalam rotasi penuh.",
+    "category": "Drone",
+    "defaultDuration": 8
+  },
+  {
+    "id": "drone_follow",
+    "label": "Drone Follow",
+    "camera": "drone",
+    "angle": "follow",
+    "description": "Drone mengikuti pergerakan subjek dari belakang atau samping.",
+    "category": "Drone",
+    "defaultDuration": 10
+  },
+  {
+    "id": "reveal_pan",
+    "label": "Drone Reveal",
+    "camera": "drone",
+    "angle": "reveal",
+    "description": "Drone bergerak dari balik objek dan memperlihatkan subjek atau lanskap.",
+    "category": "Drone",
+    "defaultDuration": 6
+  },
+  {
+    "id": "establishing_wide",
+    "label": "Establishing Shot",
+    "camera": "static",
+    "angle": "wide",
+    "description": "Menunjukkan lokasi atau lingkungan sebagai pembuka adegan.",
+    "category": "Cinematic",
+    "defaultDuration": 5
+  },
+  {
+    "id": "closeup_face",
+    "label": "Close-Up Wajah",
+    "camera": "static",
+    "angle": "closeup",
+    "description": "Fokus pada wajah karakter untuk menangkap emosi.",
+    "category": "Cinematic",
+    "defaultDuration": 4
+  },
+  {
+    "id": "medium_dialogue",
+    "label": "Medium Shot (Dialog)",
+    "camera": "static",
+    "angle": "medium",
+    "description": "Dari pinggang ke atas, biasa digunakan untuk dialog dua orang.",
+    "category": "Cinematic",
+    "defaultDuration": 5
+  },
+  {
+    "id": "long_tracking",
+    "label": "Tracking Shot",
+    "camera": "dolly",
+    "angle": "tracking",
+    "description": "Kamera bergerak sejajar mengikuti subjek.",
+    "category": "Cinematic",
+    "defaultDuration": 6
+  },
+  {
+    "id": "low_angle_power",
+    "label": "Low Angle",
+    "camera": "static",
+    "angle": "low",
+    "description": "Dari bawah ke atas, memberi kesan dominasi atau kekuatan.",
+    "category": "Cinematic",
+    "defaultDuration": 5
+  },
+  {
+    "id": "high_angle_weak",
+    "label": "High Angle",
+    "camera": "static",
+    "angle": "high",
+    "description": "Dari atas ke bawah, menunjukkan kelemahan atau keterasingan.",
+    "category": "Cinematic",
+    "defaultDuration": 5
+  }
+]

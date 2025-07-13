@@ -1,0 +1,46 @@
+{
+  "characters": [
+    {
+      "id": "char001",
+      "name": "Andi",
+      "avatar": "avatars/andi.png",
+      "voice": "id-ID-GilangNeural",
+      "pitch": 0,
+      "rate": 1,
+      "volume": 1,
+      "expressions": {
+        "neutral": "avatars/andi_neutral.png",
+        "happy": "avatars/andi_happy.png",
+        "sad": "avatars/andi_sad.png",
+        "angry": "avatars/andi_angry.png"
+      }
+    },
+    {
+      "id": "char002",
+      "name": "Sita",
+      "avatar": "avatars/sita.png",
+      "voice": "id-ID-ArdiNeural",
+      "pitch": 0,
+      "rate": 1,
+      "volume": 1,
+      "expressions": {
+        "neutral": "avatars/sita_neutral.png",
+        "happy": "avatars/sita_happy.png",
+        "sad": "avatars/sita_sad.png",
+        "angry": "avatars/sita_angry.png"
+      }
+    },
+    {
+      "id": "char003",
+      "name": "Narator",
+      "avatar": "avatars/narrator.png",
+      "voice": "id-ID-NovaNeural",
+      "pitch": -2,
+      "rate": 0.9,
+      "volume": 1,
+      "expressions": {
+        "neutral": "avatars/narrator.png"
+      }
+    }
+  ]
+}

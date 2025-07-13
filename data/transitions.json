@@ -1,0 +1,50 @@
+[
+  {
+    "id": "fade",
+    "name": "Fade",
+    "description": "Transisi perlahan memudar ke scene berikutnya.",
+    "duration": 1000
+  },
+  {
+    "id": "slide-left",
+    "name": "Slide Left",
+    "description": "Scene lama bergeser ke kiri, scene baru masuk dari kanan.",
+    "duration": 800
+  },
+  {
+    "id": "slide-right",
+    "name": "Slide Right",
+    "description": "Scene lama bergeser ke kanan, scene baru masuk dari kiri.",
+    "duration": 800
+  },
+  {
+    "id": "zoom-in",
+    "name": "Zoom In",
+    "description": "Scene baru muncul dengan efek perbesaran.",
+    "duration": 1000
+  },
+  {
+    "id": "zoom-out",
+    "name": "Zoom Out",
+    "description": "Scene lama mengecil dan digantikan oleh scene baru.",
+    "duration": 1000
+  },
+  {
+    "id": "wipe",
+    "name": "Wipe",
+    "description": "Transisi menyapu dari satu sisi layar.",
+    "duration": 1200
+  },
+  {
+    "id": "circle-reveal",
+    "name": "Circle Reveal",
+    "description": "Scene baru terbuka dari tengah layar seperti lingkaran.",
+    "duration": 1100
+  },
+  {
+    "id": "blur-fade",
+    "name": "Blur and Fade",
+    "description": "Scene lama blur lalu fade ke scene baru.",
+    "duration": 1300
+  }
+]

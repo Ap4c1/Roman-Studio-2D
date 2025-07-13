@@ -1,0 +1,42 @@
+[
+  {
+    "id": "alya",
+    "name": "Alya",
+    "description": "Seorang gadis cerdas dan tenang, penuh misteri namun hangat.",
+    "avatar": "assets/characters/alya.png",
+    "voice": "female_soft",
+    "textColor": "#D63384",
+    "bubbleColor": "#FFE6F0",
+    "font": "Roboto"
+  },
+  {
+    "id": "rafi",
+    "name": "Rafi",
+    "description": "Pemuda pemberani yang keras kepala tapi berhati lembut.",
+    "avatar": "assets/characters/rafi.png",
+    "voice": "male_deep",
+    "textColor": "#007BFF",
+    "bubbleColor": "#E6F0FF",
+    "font": "Roboto"
+  },
+  {
+    "id": "nina",
+    "name": "Nina",
+    "description": "Sahabat Alya yang ceria dan spontan.",
+    "avatar": "assets/characters/nina.png",
+    "voice": "female_bright",
+    "textColor": "#FFC107",
+    "bubbleColor": "#FFF8E1",
+    "font": "Roboto"
+  },
+  {
+    "id": "indra",
+    "name": "Indra",
+    "description": "Kakak Rafi yang misterius dan bijak.",
+    "avatar": "assets/characters/indra.png",
+    "voice": "male_calm",
+    "textColor": "#28A745",
+    "bubbleColor": "#E8F5E9",
+    "font": "Roboto"
+  }
+]

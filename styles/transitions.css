@@ -1,0 +1,71 @@
+/* FADE */
+.transition-fade {
+  animation: fadeIn 1s ease-in-out;
+}
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+/* SLIDE LEFT */
+.transition-slide-left {
+  animation: slideLeft 0.8s ease-in-out;
+}
+@keyframes slideLeft {
+  from { transform: translateX(100%); opacity: 0; }
+  to { transform: translateX(0); opacity: 1; }
+}
+
+/* SLIDE RIGHT */
+.transition-slide-right {
+  animation: slideRight 0.8s ease-in-out;
+}
+@keyframes slideRight {
+  from { transform: translateX(-100%); opacity: 0; }
+  to { transform: translateX(0); opacity: 1; }
+}
+
+/* ZOOM IN */
+.transition-zoom-in {
+  animation: zoomIn 1s ease-in-out;
+}
+@keyframes zoomIn {
+  from { transform: scale(0.5); opacity: 0; }
+  to { transform: scale(1); opacity: 1; }
+}
+
+/* ZOOM OUT */
+.transition-zoom-out {
+  animation: zoomOut 1s ease-in-out;
+}
+@keyframes zoomOut {
+  from { transform: scale(1.5); opacity: 0; }
+  to { transform: scale(1); opacity: 1; }
+}
+
+/* WIPE */
+.transition-wipe {
+  animation: wipeIn 1.2s ease-in-out;
+}
+@keyframes wipeIn {
+  from { width: 0; opacity: 0; }
+  to { width: 100%; opacity: 1; }
+}
+
+/* CIRCLE REVEAL */
+.transition-circle-reveal {
+  animation: circleReveal 1.1s ease-in-out;
+  clip-path: circle(0% at center);
+}
+@keyframes circleReveal {
+  to { clip-path: circle(150% at center); opacity: 1; }
+}
+
+/* BLUR FADE */
+.transition-blur-fade {
+  animation: blurFade 1.3s ease-in-out;
+}
+@keyframes blurFade {
+  from { filter: blur(10px); opacity: 0; }
+  to { filter: blur(0); opacity: 1; }
+}

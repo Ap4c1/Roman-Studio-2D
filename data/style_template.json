@@ -1,0 +1,52 @@
+{
+  "styles": [
+    {
+      "id": "style001",
+      "name": "Cinematic Dark",
+      "fontFamily": "Roboto",
+      "fontSize": "24px",
+      "fontColor": "#FFFFFF",
+      "backgroundColor": "rgba(0, 0, 0, 0.6)",
+      "textShadow": "2px 2px 4px #000000",
+      "position": "bottom",
+      "transition": "fade",
+      "duration": 500
+    },
+    {
+      "id": "style002",
+      "name": "Bright Modern",
+      "fontFamily": "Open Sans",
+      "fontSize": "20px",
+      "fontColor": "#333333",
+      "backgroundColor": "rgba(255, 255, 255, 0.7)",
+      "textShadow": "none",
+      "position": "center",
+      "transition": "slideUp",
+      "duration": 600
+    },
+    {
+      "id": "style003",
+      "name": "Retro Terminal",
+      "fontFamily": "Courier New",
+      "fontSize": "18px",
+      "fontColor": "#00FF00",
+      "backgroundColor": "rgba(0, 0, 0, 0.8)",
+      "textShadow": "0 0 4px #00FF00",
+      "position": "top",
+      "transition": "typewriter",
+      "duration": 800
+    },
+    {
+      "id": "style004",
+      "name": "Soft Pastel",
+      "fontFamily": "Poppins",
+      "fontSize": "22px",
+      "fontColor": "#555555",
+      "backgroundColor": "rgba(255, 230, 230, 0.7)",
+      "textShadow": "1px 1px 2px #AAAAAA",
+      "position": "bottom",
+      "transition": "zoom",
+      "duration": 700
+    }
+  ]
+}

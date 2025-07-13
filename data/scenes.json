@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "title": "Pertemuan di Taman",
+    "character": "Alya",
+    "dialog": "Aku tahu kamu akan datang hari ini.",
+    "background": "assets/backgrounds/taman.jpg",
+    "characterImage": "assets/characters/alya.png",
+    "voice": "audio/alya_1.mp3",
+    "subtitle": "subtitle/scene1.srt",
+    "transition": "fade-in"
+  },
+  {
+    "id": 2,
+    "title": "Rahasia di Balik Hujan",
+    "character": "Rafi",
+    "dialog": "Mungkin aku tak seharusnya kembali...",
+    "background": "assets/backgrounds/hujan.jpg",
+    "characterImage": "assets/characters/rafi.png",
+    "voice": "audio/rafi_2.mp3",
+    "subtitle": "subtitle/scene2.srt",
+    "transition": "slide-left"
+  },
+  {
+    "id": 3,
+    "title": "Langkah Baru",
+    "character": "Alya",
+    "dialog": "Mari kita mulai dari awal, meski sulit.",
+    "background": "assets/backgrounds/jalan.jpg",
+    "characterImage": "assets/characters/alya.png",
+    "voice": "audio/alya_3.mp3",
+    "subtitle": "subtitle/scene3.srt",
+    "transition": "zoom-in"
+  },
+  {
+    "id": 4,
+    "title": "Konflik di Senja",
+    "character": "Rafi",
+    "dialog": "Kenapa kamu tidak pernah mengerti maksudku?",
+    "background": "assets/backgrounds/senja.jpg",
+    "characterImage": "assets/characters/rafi.png",
+    "voice": "audio/rafi_4.mp3",
+    "subtitle": "subtitle/scene4.srt",
+    "transition": "fade-out"
+  },
+  {
+    "id": 5,
+    "title": "Akhir dan Awal",
+    "character": "Alya & Rafi",
+    "dialog": "Kita mungkin salah, tapi kita bisa belajar.",
+    "background": "assets/backgrounds/pantai.jpg",
+    "characterImage": "assets/characters/rafi_alya.png",
+    "voice": "audio/final_duet.mp3",
+    "subtitle": "subtitle/scene5.srt",
+    "transition": "crossfade"
+  }
+]
